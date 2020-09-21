@@ -8,7 +8,7 @@
 
 ## Установка
 
-1. Скачайте архив модуля https://github.com/begateway/vamshop-payment-module/releases
+1. Скачайте архив модуля https://github.com/begateway/vamshop-payment-module/raw/master/vamshop-payment-module.zip
 2. Распакуйте и загрузите содержимое архива в корневую директорию вашей установки VamShop
 3. После установки зайдите в панель администратора VamShop в раздел «Модули → Модули оплаты»
 4. На открывшейся странице «Модули оплаты» выберите способ оплаты BeGateway и включите его.
